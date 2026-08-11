@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-h0j6ey.espalestras.com.br/sitemap.xml
